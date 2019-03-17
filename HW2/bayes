@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+if [ "$3" == 'n' ]; then
+    python3 nb.py $1 $2  
+elif [ "$3" == 't' ]; then
+    python3 tan.py $1 $2
+else 
+    :
+fi

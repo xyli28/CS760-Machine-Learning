@@ -1,0 +1,4 @@
+Aveage accuracy for Naive Baynes: 0.693262
+Aveage accuracy for Tree Augmented Naive Baynes: 0.759087
+t statistic 6.654110
+Two systems have different accuracies
